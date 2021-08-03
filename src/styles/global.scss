@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(90deg, #29323C 0%, #313E4B 100%);
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #303d4a;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+ 
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
